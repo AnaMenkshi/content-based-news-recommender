@@ -27,7 +27,7 @@ Popularity prior
 
 to create a balanced and personalized recommendation pipeline.
 
-####PROJECT FILES
+#### PROJECT FILES
 
 users.py
 
@@ -53,7 +53,7 @@ Generates recommendations
 
 Performs evaluation (200,002 × 3 recommendations dataset)
 
-#### SYSTEM PIPELINE
+### SYSTEM PIPELINE
 
 #### DATA LOADING AND CLEANING
 
